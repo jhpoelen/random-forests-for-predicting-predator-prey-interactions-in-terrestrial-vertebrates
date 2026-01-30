@@ -1,3 +1,5 @@
+⚠️ This repository is archived. Please use https://github.com/JohnLlewelyn/random-forests-for-predicting-predator-prey-interactions-in-terrestrial-vertebrates instead. ⚠️
+
 ## Predicting predator-prey interactions in terrestrial endotherms using random forest
 <img align="right" src="network-figure.png" alt="contraception" width="400" style="margin-top: 20px">
 
